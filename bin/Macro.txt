@@ -1,0 +1,12 @@
+# None
+Calvin.moveAndclick(-560, -1351)
+time.sleep(0.3)
+# 退出
+Calvin.moveAndclick(776, 16)
+time.sleep(0.3)
+# None
+Calvin.moveAndclick(878, 518)
+time.sleep(0.3)
+# None
+Calvin.moveAndclick(580, 461)
+time.sleep(0.3)

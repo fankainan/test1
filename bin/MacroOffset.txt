@@ -1,0 +1,42 @@
+    # None
+    Calvin.moveOffsetClick("C10S测试用例v1.1-2022.10.9.xlsx - WPS Office",859,569)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("语音功能测试用例(1)(1).xlsx - WPS Office",589,479)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("ajjlPython.py - ajjl自动化 - Visual Studio Code [管理员]",1053,441)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("run.py - ajjl自动化-图元对齐自动化 - fkn - Visual Studio Code [管理员]",620,496)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("run.py - ajjl自动化-图元对齐自动化 - fkn - Visual Studio Code [管理员]",1090,409)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("run.py - ajjl自动化-图元对齐自动化 - fkn - Visual Studio Code [管理员]",816,165)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("run.py - ajjl自动化 - Visual Studio Code [管理员]",330,407)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("run.py - ajjl自动化-图元对齐自动化 - fkn - Visual Studio Code [管理员]",585,678)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("海为云组态软件[3.33.2.4] - C:\Users\Administrator\Documents\Haiwell Scada\Temporary\工程6.hwdev",1774,253)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("海为云组态软件[3.33.2.4] - C:\Users\Administrator\Documents\Haiwell Scada\Temporary\工程6.hwdev",450,150)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("mytools.py - ajjl自动化-图元对齐自动化 - fkn - Visual Studio Code [管理员]",501,5)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("● run.py - ajjl自动化-图元对齐自动化 - fkn - Visual Studio Code [管理员]",455,366)
+    time.sleep(0.3)
+    # None
+    Calvin.moveOffsetClick("ajjlPython.py - ajjl自动化 - Visual Studio Code [Administrator]",184,214)
+    time.sleep(0.3)
+    # 基于窗口偏移：
+    Calvin.moveOffsetClick("run.py - ajjl自动化 - Visual Studio Code [Administrator]",1295,935)
+    time.sleep(0.3)
